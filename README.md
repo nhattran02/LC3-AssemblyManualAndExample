@@ -1,5 +1,5 @@
 ---
-title: "HCMUT ML & IOT LAB"
+title: "LC3 ASM"
 permalink: /
 layout: default
 header-includes: |
