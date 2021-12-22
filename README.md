@@ -28,28 +28,8 @@ The operations **AND**, **OR**, and **NOT** are bitwise. The operation signified
 arithmetic addition.
 
 #### 1.1 Inputs
-The numbers X and Y are in locations x3100 and x3101, respectively:
-| **x3100**    | X |
-| ----------- | ----------- |
-| **X3101**  | **Y**     |
+The numbers X and Y are in locations x3100 and x3101, respectively
 
-#### 1.2 Ouputs
-The outputs at their corresponding locations are as follows:
-| x3102    | X+Y |
-| - |-- |
-| x3103  | X AND Y |
-|x3104|X OR Y|
-|x3105|NOT(X)|
-|x3106|NOT(Y)|
-|x3107|X + 3|
-|x3108|Y −3|
-|x3109|Z|
-
-where Z is defined as
-
-Z=0 if X is even
-
-z=1 if X is odd
 
 ### 1.2 Instruction in LC3
 
