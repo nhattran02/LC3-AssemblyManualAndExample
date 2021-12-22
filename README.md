@@ -10,7 +10,7 @@ header-includes: |
     \fancyfoot[CO,CE]{So is this}
     \fancyfoot[LE,RO]{\thepage}
 ---
-###Author: Tran Minh Nhat (HCMUT)
+### Author: Tran Minh Nhat (HCMUT)
 ### LAB 1: 
 **ALU Operations**
 
