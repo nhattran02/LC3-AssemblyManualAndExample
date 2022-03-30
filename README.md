@@ -45,7 +45,7 @@ The numbers X and Y are in locations x3100 and x3101, respectively
     STR R3, R4, x2
     AND R3, R1, R2	;R3=R1 AND R2
     STR R3, R4, x3
-    NOT R5, R1
+    NOT R5, R1  ;
     NOT R6, R2
     AND R3, R5, R6
     NOT R3, R3
